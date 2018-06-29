@@ -12,13 +12,13 @@
     "password"
   ],
   "author": {
-    "name": "Jared Hanson",
+    "name": "Jared Hanson, Ivy Malao",
     "email": "jaredhanson@gmail.com",
     "url": "http://www.jaredhanson.net/"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-local.git"
+    "url": "git://github.com/imalao/passport-local.git"
   },
   "bugs": {
     "url": "http://github.com/jaredhanson/passport-local/issues"
